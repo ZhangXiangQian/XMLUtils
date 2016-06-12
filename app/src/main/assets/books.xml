@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book>
+        <id>1001</id>
+        <name>Thinking In
+            <a style='color:#df3434; font-weight:bold;' class='replace_word'
+                href="http://lib.csdn.net/base/17" target='_blank' title="Java EE知识库">Java
+            </a>
+        </name>
+        <price>80.00</price>
+    </book>
+    <book>
+        <id>1002</id>
+        <name>Core Java</name>
+        <price>90.00</price>
+    </book>
+    <book>
+        <id>1003</id>
+        <name>Hello, Andriod</name>
+        <price>100.00</price>
+    </book>
+</books>
